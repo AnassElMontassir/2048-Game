@@ -1,5 +1,8 @@
 # 2048 Game
 
+** It is recommended to run the application with the kit "MINGW".**
+**If another kit is used, an error may appear. In that case, please press the 'ignore' button to continue running the application.**
+
 ## Description
 This project is an implementation of the popular 2048 puzzle game. The objective is to combine tiles with the same value by moving them in four possible directions (up, down, left, right) until you reach the 2048 tile. With every move, a new tile is generated, adding complexity to the game.
 
