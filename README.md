@@ -4,7 +4,7 @@
 **If another kit is used, an error may appear. In that case, please press the 'ignore' button to continue running the application.**
 
 ## Description
-This class project aims to demonstrate the use of C++ in conjunction with Qt and QML to develop an interactive graphical interface.  
+This class project aims to demonstrate the use of C++ in conjunction with QML to develop an interactive graphical interface.  
 The project is divided into two main parts: the backend in C++ and the frontend in QML. The backend handles the application's logic, while the frontend manages the user interface.
 
 The project is an implementation of the popular 2048 puzzle game. The objective is to combine tiles with the same value by moving them in four possible directions (up, down, left, right) until you reach the 2048 tile. With every move, a new tile is generated, adding complexity to the game.
